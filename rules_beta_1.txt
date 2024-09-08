@@ -44,3 +44,9 @@
 "白血病" in text and "求助" in text
 "玩" in text and "方便" in text
 "这个也是风味犹存" in text
+"这个也是风韵犹存" in text
+"风韵犹存小"in text and ("娘" in text or "梁" in text)
+"神秘网址" in text and "http" in text
+"北朝" in text and "南" in text
+"锁" in text and ("平板" in text or "负数" in text or "锅盖" in the text) and "带" in text
+"🦌" in text and not "戒" in text
